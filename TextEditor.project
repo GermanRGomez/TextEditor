@@ -92,5 +92,7 @@
   </Settings>
   <VirtualDirectory Name="src">
     <File Name="main.cpp"/>
+    <File Name="KeysReader.hpp"/>
+    <File Name="KeysReader.cpp"/>
   </VirtualDirectory>
 </CodeLite_Project>
